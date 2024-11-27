@@ -5,8 +5,6 @@ const HomePageFooter = () => {
   return (
     <Navbar bg="dark" data-bs-theme="dark" style={{ marginTop: "35px" }}>
       <Container style={{ display: "flex", justifyContent: "center" }}>
-        {" "}
-        {/* Flexbox para centrar */}
         <Navbar.Text style={{ color: "white" }}>
           Copyright © Your Website 2024
         </Navbar.Text>
